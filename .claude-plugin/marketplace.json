@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "A collection of skills, agents & plugins for the product design team of Intact",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
       "name": "figma-skills",
       "source": "./plugins/figma-skills",
       "description": "Skills to use with Figma",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "author": { "name": "Jakob" }
     }
   ]
