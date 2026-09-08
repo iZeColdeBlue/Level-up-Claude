@@ -12,7 +12,7 @@
     {
       "name": "figma-skills",
       "source": "./plugins/figma-skills",
-      "description": "Skills to use witrh Figma",
+      "description": "Skills to use with Figma",
       "version": "1.0.0",
       "author": { "name": "Jakob" }
     }
