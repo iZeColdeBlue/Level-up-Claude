@@ -1,1 +1,6 @@
-
+{
+  "name": "figma-skills",
+  "version": "1.0.0",
+  "description": "A collection of Skills to help Claude work with you in Figma",
+  "author": { "name": "Jakob" }
+}
