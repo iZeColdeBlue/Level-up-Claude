@@ -1,1 +1,20 @@
-
+{
+  "name": "intact-pd-armory",
+  "owner": {
+    "name": "Jakob",
+    "email": "jakob.schnurrer@intact-systems.com"
+  },
+  "metadata": {
+    "description": "A collection of skills, agents & plugins for the product design team of Intact",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "zeus-figma-skills",
+      "source": "./plugins/zeus-figma-skills",
+      "description": "ZEUS 3.0 Figma Agent skills",
+      "version": "1.0.0",
+      "author": { "name": "Jakob" }
+    }
+  ]
+}
